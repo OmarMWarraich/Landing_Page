@@ -1,6 +1,6 @@
-# Book Store
+# Portfolio 
 
-> Book Store is a web application that allows users to add books to their list, remove books from their list, and update the read status of the books.
+> Portfolio
 
 ## Tools & Technologies
 
